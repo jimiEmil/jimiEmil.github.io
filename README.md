@@ -5,5 +5,5 @@ min hjemmeside
 
 ## projekter for programmering-C
 
-- [Den-første-hjemmeside](https://jimiemil.github.io/) 
+- [Den-første-hjemmeside](test/hjemmeside.html) 
 - [Kaspers-Hjemmeside_Eksempel](https://kragh03.github.io)
