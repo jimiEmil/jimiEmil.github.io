@@ -1,5 +1,4 @@
-# JimiEmil.github.io
-min hjemmeside
+Velkommen til min online mappe, af projekter i løbet af 2. g.
 
 
 
