@@ -12,4 +12,4 @@ Velkommen til min online mappe, af projekter i løbet af 2. g.
 
 #### Stick figur opgave
 
-- [Propaganda](test/p5-tegninger)
+- [Propaganda](test/p5-tegninger/index.html)
